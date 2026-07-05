@@ -1,0 +1,29 @@
+{
+  "name": "sap-api-integration",
+  "version": "1.0.0",
+  "description": "A custom API integration framework that connects a mock SAP S/4HANA ERP system with a financial analytics platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "sap",
+    "s4hana",
+    "api",
+    "integration",
+    "financial-analytics",
+    "erp"
+  ],
+  "author": "SAP API Integration Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

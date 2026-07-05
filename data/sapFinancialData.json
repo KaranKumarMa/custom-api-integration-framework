@@ -1,0 +1,44 @@
+[
+  {
+    "companyCode": "US001",
+    "fiscalYear": 2024,
+    "revenue": 15000000,
+    "expenses": 9500000,
+    "profit": 5500000
+  },
+  {
+    "companyCode": "DE001",
+    "fiscalYear": 2024,
+    "revenue": 22000000,
+    "expenses": 14500000,
+    "profit": 7500000
+  },
+  {
+    "companyCode": "IN001",
+    "fiscalYear": 2024,
+    "revenue": 8500000,
+    "expenses": 5200000,
+    "profit": 3300000
+  },
+  {
+    "companyCode": "US001",
+    "fiscalYear": 2023,
+    "revenue": 13500000,
+    "expenses": 8800000,
+    "profit": 4700000
+  },
+  {
+    "companyCode": "DE001",
+    "fiscalYear": 2023,
+    "revenue": 19500000,
+    "expenses": 12800000,
+    "profit": 6700000
+  },
+  {
+    "companyCode": "IN001",
+    "fiscalYear": 2023,
+    "revenue": 7200000,
+    "expenses": 4500000,
+    "profit": 2700000
+  }
+]
