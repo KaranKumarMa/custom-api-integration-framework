@@ -7,7 +7,7 @@ This document provides detailed information about the SAP API Integration endpoi
 ## Base URL
 
 ```
-http://localhost:3000/api
+http://localhost:5000/api
 ```
 
 ## Authentication
@@ -25,7 +25,7 @@ Retrieves all financial records from the mock SAP S/4HANA system in analytics-re
 **Request:**
 ```
 GET /api/financial-data
-Host: localhost:3000
+Host: localhost:5000
 ```
 
 **Response:**
@@ -65,7 +65,7 @@ Retrieves financial records for a specific company.
 **Request:**
 ```
 GET /api/financial-data/company/US001
-Host: localhost:3000
+Host: localhost:5000
 ```
 
 **Response:**
@@ -113,7 +113,7 @@ Retrieves financial records for a specific fiscal year.
 **Request:**
 ```
 GET /api/financial-data/year/2024
-Host: localhost:3000
+Host: localhost:5000
 ```
 
 **Response:**
@@ -164,7 +164,7 @@ Returns the current health status of the API.
 **Request:**
 ```
 GET /api/health
-Host: localhost:3000
+Host: localhost:5000
 ```
 
 **Response:**
